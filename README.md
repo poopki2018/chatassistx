@@ -9,3 +9,8 @@ ChatAssistX Client는 JSAssist와 호환되는 채팅 위젯입니다. 디시콘
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLastorder-DC%2FChatAssistX-Client.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLastorder-DC%2FChatAssistX-Client?ref=badge_large)
+
+
+--------------------
+
+추가 디씨콘은 dccon.json에 등록, select.html 표시 위해 ODF.json 
