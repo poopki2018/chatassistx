@@ -8,10 +8,6 @@
 		"tags": ["히토미", "음란"],
 		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/hitomi.png"
 	},{
-		"keywords": ["호랑이1", "호랑이"],
-		"tags": ["주토피아", "움짤"],
-		"path": "https://watert.gitlab.io/emotes/yeokka/BBCC/images/%EC%A3%BC%ED%86%B1%ED%98%B8%EB%9E%91%EC%9D%B41.gif"
-	}, {
 		"keywords": ["달걀오우야"],
 		"tags":["달걀콘"],
 		"path":"http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/egg1.png"
@@ -108,9 +104,13 @@
 		"tags":["냥이"],
 		"path":"http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/sad_cat.gif"
 	},{
-		"keywords": ["유다희"],
+		"keywords": ["유다희5"],
 		"tags":["다크소울"],
 		"path":"http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/youdied.gif"
+	},{
+		"keywords": ["호랑이1", "호랑이"],
+		"tags": ["주토피아", "움짤"],
+		"path": "https://watert.gitlab.io/emotes/yeokka/BBCC/images/%EC%A3%BC%ED%86%B1%ED%98%B8%EB%9E%91%EC%9D%B41.gif"
 	},{
 		"keywords": ["호랑이2"],
 		"tags": ["주토피아", "움짤"],
