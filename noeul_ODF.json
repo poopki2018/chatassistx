@@ -404,14 +404,6 @@
 		"tags": ["젤다"],
 		"path": "https://watert.gitlab.io/emotes/yeokka/BBCC/images/%EC%A0%A4%EB%8B%A4%ED%8B%B0%EB%B0%B0%EA%B9%85.png"
 	}, {
-		"keywords": ["붕쯔", "붕쯔붕쯔"],
-		"tags": ["참피"],
-		"path": "https://watert.gitlab.io/emotes/yeokka/BBCC/images/%EC%B0%B8%ED%94%BC%EB%B6%95%EC%AF%94.png"
-	}, {
-		"keywords": ["쿠이", "쿠이쿠이"],
-		"tags": ["참피"],
-		"path": "https://watert.gitlab.io/emotes/yeokka/BBCC/images/%EC%B0%B8%ED%94%BC%EC%BF%A0%EC%9D%B4.png"
-	}, {
 		"keywords": ["우리핵드럼"],
 		"tags": ["우리핵콘", "움짤"],
 		"path": "https://watert.gitlab.io/emotes/yeokka/BBCC/images/%EC%9A%B0%EB%A6%AC%ED%95%B5%EB%93%9C%EB%9F%BC.gif"
@@ -647,22 +639,10 @@
 		"keywords": ["꼬우면"],
 		"tags": ["BB콘", "움짤"],
 		"path": "https://watert.gitlab.io/emotes/yeokka/BBCC/images/%EB%B2%A4%EB%B8%8C%EA%BC%AC%EC%9A%B0%EB%A9%B4.gif"
-	}, {
-		"keywords": ["리틀성기"],
-		"tags": ["BB콘", "움짤"],
-		"path": "https://watert.gitlab.io/emotes/yeokka/BBCC/images/%EB%B2%A4%EB%B8%8C%EB%A6%AC%ED%8B%80.gif"
-	}, {
+	},  {
 		"keywords": ["의도된"],
 		"tags": ["BB콘", "움짤"],
 		"path": "https://watert.gitlab.io/emotes/yeokka/BBCC/images/%EB%B2%A4%EB%B8%8C%EC%9D%98%EB%8F%84.gif"
-	}, {
-		"keywords": ["어케이김", "어케이겼노"],
-		"tags": ["BB콘", "움짤"],
-		"path": "https://watert.gitlab.io/emotes/yeokka/BBCC/images/%EB%B2%A4%EB%B8%8C%EC%96%B4%EC%BC%801.gif"
-	}, {
-		"keywords": ["어케함", "어케했노"],
-		"tags": ["BB콘", "움짤"],
-		"path": "https://watert.gitlab.io/emotes/yeokka/BBCC/images/%EB%B2%A4%EB%B8%8C%EC%96%B4%EC%BC%802.gif"
 	}, {
 		"keywords": ["핫산발상"],
 		"tags": ["핫산"],
