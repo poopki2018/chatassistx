@@ -1,5 +1,9 @@
 {
 	"dccons": [{
+		"keywords": ["강철"],
+		"tags": ["티어"],
+		"path": "https://raw.githubusercontent.com/poopki2018/chatassistx/master/img/dccon/iron.png"		
+	},{
 		"keywords": ["정말데단해"],
 		"tags": ["잼민튜브"],
 		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/bonobono1.png"		
