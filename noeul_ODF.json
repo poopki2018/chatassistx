@@ -1,8 +1,80 @@
 {
 	"dccons": [{
+		"keywords": ["부산"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/busan.png"		
+	},{
+		"keywords": ["충북"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/bukdo.png"		
+	},{
+		"keywords": ["충남"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/namdo.png"		
+	},{
+		"keywords": ["대구"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/daegu.png"		
+	},{
+		"keywords": ["대전"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/daejeon.png"		
+	},{
+		"keywords": ["독도"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/dokdo.png"		
+	},{
+		"keywords": ["강원"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/gangwon.png"		
+	},{
+		"keywords": ["광주"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/gwangju.png"		
+	},{
+		"keywords": ["경기"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/gyeonggi.png"		
+	},{
+		"keywords": ["경북"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/gyeongsangbuk.png"		
+	},{
+		"keywords": ["경남"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/gyeongsangnam.png"		
+	},{
+		"keywords": ["인천"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/incheon.png"		
+	},{
+		"keywords": ["제주"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/jeju.png"		
+	},{
+		"keywords": ["전북"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/jollabuk.png"		
+	},{
+		"keywords": ["전남"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/jollanam.png"		
+	},{
+		"keywords": ["세종"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/sejong.png"		
+	},{
+		"keywords": ["서울"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/seoul.png"		
+	},{
+		"keywords": ["울산"],
+		"tags": ["전화번호부"],
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/ulsan.png"		
+	},{
 		"keywords": ["강철"],
 		"tags": ["티어"],
-		"path": "https://raw.githubusercontent.com/poopki2018/chatassistx/master/img/dccon/iron.png"		
+		"path": "http://poopki.ipdisk.co.kr:8000/list/HDD1/dc_con/iron.png"		
 	},{
 		"keywords": ["정말데단해"],
 		"tags": ["잼민튜브"],
